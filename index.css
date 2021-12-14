@@ -1,0 +1,93 @@
+
+.TT {
+    position: relative;
+    font-size: xx-large;
+    color: lightseagreen;
+    background-color: whitesmoke;
+    right: 0.5%;
+    height: 60px;
+    bottom: 0.9%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    width: 100.9%;
+    text-align: start;
+}
+
+.TT2 {
+    position: relative;
+    font-size: xx-large;
+    color: lightseagreen;
+    background-color: whitesmoke;
+    right: 0.1%;
+    left: 0.9%;
+    height: 60px;
+    bottom: 0.2%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    width: 100.9%;
+    text-align: start;
+    top: 19%;
+}
+
+.BB {
+    background-color: #23272A;
+}
+
+.HREF {
+    text-decoration: none;
+}
+
+.DF {
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    bottom: 2%;
+    color: white;
+}
+
+.I2 {
+    position: relative;
+    width: 15%;
+    height: 20%;
+    background-color: aliceblue;
+    left: 0.5%;
+}
+
+.I3 {
+    width: 15%;
+    height: 20%;
+    position: relative;
+    right: 10%;
+}
+
+.SS {
+    width: 15%;
+    position: relative;
+    top: 8%;
+    right: 15%;
+    color: red;
+}
+
+.SS2 {
+    position: relative;
+    width: 15%;
+    top: 8%;
+    right: 25.2%;
+}
+
+
+.BOX {
+    height: 5%;
+    width: 50%;
+    padding-left: 2%;
+    padding-top: 10.5%;
+    padding-right: 32%;
+    padding-bottom: 5%;
+    right: 2%;
+    left: 2%;
+    top: 2%;
+    border: 2px solid white;
+    position: relative;
+    color: red;
+    background-color: lightseagreen;
+}
